@@ -9,6 +9,9 @@ import org.junit.Test;
 
 public class WhenYouCreateACell {
 
+
+
+
     @Test
     public void aLiveCellShouldBeRepresentedByAnAsterisk() {
         Cell cell = Cell.fromSymbol("*");
